@@ -1,4 +1,4 @@
-local Admins = {
+return {
   [1805738644] = true,
   [3093591913] = true,
   [5002717393] = true,
